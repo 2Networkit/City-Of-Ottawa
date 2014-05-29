@@ -1,0 +1,9 @@
+
+.\HomeFolders.ps1
+
+.\Groupsfetch.ps1 
+.\HomeDirectory.ps1 
+.\Exchange.ps1 
+.\CreateHomeShare.ps1
+.\exchangecalendar.ps1
+SueSolution or Ronsolution.

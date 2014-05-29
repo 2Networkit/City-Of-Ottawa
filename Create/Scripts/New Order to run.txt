@@ -1,0 +1,8 @@
+Run Report from http://cmad109/Xtraction/Login.aspx?ReturnUrl=%2fXtraction%2fFlash%2fDefault.aspx
+Only Ron Guilbeault and Suzanne Groulx have this capability. 
+Save the attachement "New Account EDS.xlsx" to \\dc1fap003\ito\isd\CSB\ITSSWiki\SD\NTA\Scripts\EDS\Create\DailyReports
+
+Start Exchange Powershell
+
+Start: .\builddatabase.ps1
+
