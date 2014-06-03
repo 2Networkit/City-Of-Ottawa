@@ -1,2 +1,0 @@
-Name,homeDirectory,Sharename,attribute8,attribute10,Warnings,Quota,Quota1,Defaults,SendOnBehalfTo,Forwarding,Perm,Perm1,Perm2,Rule,Admins,DomainAdmin,ServerAdmin,aGGcityDOPS,aGGDataAdmins,AccountAdmin
-villeneuma7,\\cmfp538\e$\USR\villeneuma7,\\cmfp538\villeneuma7$,Active,512MB,unlimited,unlimited,FALSE,1,FALSE,0,fullControl,Modify,ReadAndExecute,Allow,Administrators,City\Domain Admins,City\Server Admins,A\aGG City DOPS,A\aGG Data Admins,City\Account Admins

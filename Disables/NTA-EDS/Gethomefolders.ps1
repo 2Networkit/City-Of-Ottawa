@@ -1,1 +1,0 @@
-﻿Measure-Command {c:\temp\scripts\homefolders.ps1}
